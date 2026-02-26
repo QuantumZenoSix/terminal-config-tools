@@ -4,7 +4,8 @@ Cool thing is the image is copied to my clipboard first (as the usual sharex rul
 
 <br />
 
-Sharex Rule (after capture task)
+Sharex Rule (after capture task)  
+
 ![My sharex rule](sharex_rule.png)
 
 If you ever want to revert this (conver the base64 in your vault into actual images), there's an obsidian plugin to convert encoded images back into files and link to them: obsidian://show-plugin?id=convert-base64-to-png
