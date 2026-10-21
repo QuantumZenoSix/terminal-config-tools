@@ -1,0 +1,22 @@
+name: posty
+primary: "#EF5B25"
+secondary: "#EF5B25"
+accent: "#404040"
+background: "#111111"
+surface: "#242424"
+
+error: "#35b5ff"
+success: "#35b5ff"
+warning: "#e8e5b5"
+
+method:
+  get: 'underline #00d825'
+  post: 'italic #b8e986'
+  put: 'bold #b8e986'
+  delete: 'bold #ff5656'
+
+
+# metadata
+author: Bobby Valenzuela
+description: A dark theme with an orange accent based on the Postman UI.
+homepage: https://github.com/bobby-valenzuela/posty-theme
