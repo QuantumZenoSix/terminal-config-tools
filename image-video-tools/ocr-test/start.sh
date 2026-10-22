@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-git clone https://github.com/bobby-valenzuela/ocr-test.git
+git clone https://github.com/QuantumZenoSix/ocr-test.git
 cd ocr-test/
 
 sudo apt install tesseract-ocr -y          # base + English

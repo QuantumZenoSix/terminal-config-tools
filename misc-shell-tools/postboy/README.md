@@ -39,8 +39,8 @@ postboy.sh -b {BEARER_TOKEN} -h {HEADER} -i {HEADER2} -j {HEADER3} -k {HEADER4}
 <br />
 
 ### Examples
-![Example2](https://github.com/bobby-valenzuela/Postboy/blob/main/sample2.png?raw=true)
-![Example1](https://github.com/bobby-valenzuela/Postboy/blob/main/sample1.png?raw=true)
+![Example2](https://github.com/QuantumZenoSix/Postboy/blob/main/sample2.png?raw=true)
+![Example1](https://github.com/QuantumZenoSix/Postboy/blob/main/sample1.png?raw=true)
 
 
 

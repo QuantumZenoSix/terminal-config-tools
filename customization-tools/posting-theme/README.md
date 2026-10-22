@@ -4,9 +4,9 @@
 </h3>
 <br />
 <p align="center">
- <a href="https://github.com/bobby-valenzuela/posty-theme/stargazers"><img src="https://img.shields.io/github/stars/bobby-valenzuela/posty-theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
- <a href="https://github.com/bobby-valenzuela/posty-theme/issues"><img src="https://img.shields.io/github/issues/bobby-valenzuela/posty-theme?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/bobby-valenzuela/posty-theme/contributors"><img src="https://img.shields.io/github/contributors/bobby-valenzuela/posty-theme?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/QuantumZenoSix/posty-theme/stargazers"><img src="https://img.shields.io/github/stars/QuantumZenoSix/posty-theme?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+ <a href="https://github.com/QuantumZenoSix/posty-theme/issues"><img src="https://img.shields.io/github/issues/QuantumZenoSix/posty-theme?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/QuantumZenoSix/posty-theme/contributors"><img src="https://img.shields.io/github/contributors/QuantumZenoSix/posty-theme?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">

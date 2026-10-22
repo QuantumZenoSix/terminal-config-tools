@@ -35,7 +35,7 @@ Optional to have (improved setup)
 Put this in your configuration file,
 
 ```sh
-set -g @plugin 'bobby-valenzuela/tmux-markdown-heading-viewer'
+set -g @plugin 'QuantumZenoSix/tmux-markdown-heading-viewer'
 ```
 
 ### Install manually using git
@@ -43,7 +43,7 @@ set -g @plugin 'bobby-valenzuela/tmux-markdown-heading-viewer'
 1. Clone the repository
 
 ```sh
-git clone https://github.com/bobby-valenzuela/tmux-markdown-heading-viewer ~/clone/path
+git clone https://github.com/QuantumZenoSix/tmux-markdown-heading-viewer ~/clone/path
 ```
 
 2. Put this line in your config
